@@ -1,14 +1,19 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/1711b0f5-d5eb-4ece-8221-22f6074ee8f6"/>
+<br>
+<br>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jose+Azarias;I+am+from+São+Paulo,+SP;I+graduated+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ja36784&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jose Azarias GitHub Stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja36784&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ja36784&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<br>
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ja36784&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -53,7 +58,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ja36784}/count.svg" /></p> 
 <br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
-
